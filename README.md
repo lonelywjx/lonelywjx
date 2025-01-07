@@ -7,9 +7,7 @@
 
 <p align=”left“> <a href=”https://twitter.com/lonelywjx“ target=”blank“><img src=”https://img.shields.io/twitter/follow/lonelywjx?logo=twitter&style=for-the-badge“ alt=”lonelywjx“ /></a> </p>
 
-- 📫 如何联系我 **bdie@163.com**<
-
-h3 align=”left“>联系me：</h3>
+- 📫 如何联系我 **bdie@163.com**<h3 align=”left“>联系me：</h3>
 <p align=“left”>
 <a href=“https://twitter.com/lonelywjx” target=“blank”><img align=“center” src=“https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg” alt=“lonelywjx” height=“30” width=“40” /></a><
 /p>
