@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm </h1>
+<h1>Hi 👋, I'm YeZi</h1>
 <p>A Computer Lover From China </p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://dev.to/lonelywjx" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a></p>
